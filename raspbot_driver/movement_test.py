@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import RPi.GPIO as GPIO
-import Time
+import time
 #define Pins for Driver
 PWMA = 18
 AIN1 = 22
